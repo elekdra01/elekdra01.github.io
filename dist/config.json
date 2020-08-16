@@ -1,16 +1,18 @@
 [
  {
   "username": "elekdra01",
-  "name": null,
+  "name": "Fathima Swaliha",
   "userimg": "https://avatars3.githubusercontent.com/u/65918016?v=4",
   "sort": "created",
   "order": "asc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "all"
+   "owner"
   ],
   "twitter": "elekdra0",
-  "linkedin": "elekdra"
+  "linkedin": "elekdra",
+  "medium": null,
+  "dribbble": null
  }
 ]
